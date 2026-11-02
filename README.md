@@ -36,7 +36,7 @@ Mantener la versión de control mientras se diseña una prueba con efecto mínim
 
 [Notebook del proyecto](https://github.com/lausofi97/Projecto-final-sprint-12/blob/main/S12%20Estudiante_Proyecto_Final%20%283%29.ipynb)
 
-[Dashboard en Tableau](https://public.tableau.com/app/profile/laura.sofia.arias.gonzalez/viz/ProyectoFinalbootcampDAsprint12/Dashboard1) — publicado; cifras pendientes de reconciliación con el notebook.
+[Dashboard en Tableau](https://public.tableau.com/app/profile/laura.sofia.arias.gonzalez/viz/ProyectoFinalbootcampDAsprint12/Dashboard1) — incluye el resultado parcial de 2.909.306,40, consistente con el notebook.
 
 ## Alcance y limitaciones
 
