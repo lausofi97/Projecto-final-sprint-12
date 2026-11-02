@@ -23,7 +23,7 @@ Integré limpieza de pedidos, cálculo de KPIs, consultas SQL de embudo y cohort
 
 ## Hallazgos principales
 
-- El notebook reporta ingresos de pedidos con costo conocido de 9.610.018,94 y resultado parcial después de marketing de 2.909.306,40; no se identifica aquí una moneda verificada.
+- Los ingresos de los pedidos con costo conocido fueron 9.610.018,94. Después de restar sus costos y todo el gasto de marketing, el resultado parcial fue 2.909.306,40, igual que en Tableau. Es parcial porque excluye los ingresos de pedidos sin costo conocido. La moneda no está especificada en los datos.
 - Conversión del experimento: tratamiento 16,29 % y control 15,69 %, diferencia observada +0,60 puntos porcentuales.
 - La prueba bilateral reporta p ≈ 0,416 con α = 0,05: no se rechaza H₀. No equivale a demostrar igualdad o ausencia de efecto.
 - El embudo restringido reporta 7.796 visitantes y 3.857 compradores; exige verificar orden temporal antes de llamarlo embudo secuencial.
